@@ -2,7 +2,7 @@
 name = "euterpe"
 version = "0.1.0"
 description = "A Python API project using UV, music21, and strict code quality standards."
-authors = ["Your Name <your.email@example.com>"]
+authors = ["Wen Qing Lim <lim.wenq@gmail.com>"]
 requires-python = ">=3.11,<3.12"
 dependencies = [
     "fastapi>=0.116.1",
